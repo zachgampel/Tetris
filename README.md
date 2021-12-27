@@ -1,6 +1,6 @@
 # Tetris
 
-Tetris in Python. Features 3 game modes:
+Tetris in Python. Control the game's running speed with left, right, and center mouse click. Features 3 game modes:
 1. Human
   a. Play using the arrow keys, R, E, and spacebar
 2. CPU
